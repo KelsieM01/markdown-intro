@@ -44,13 +44,5 @@ var myVar= "Hello, World!";
  - [x] completed task
  - [ ] uncompleted task
 
-
-
-
-
-
-
-
-
-
-
+# The End
+I have now completed a doc of some basic markdown functions.
