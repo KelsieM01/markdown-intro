@@ -1,5 +1,5 @@
 # Intro to Markdown
-This is an example file to practice using Markdown formatting. 
+This is an example of basic formatting in Markdown. 
 
 ## Headers
 You can create headers in Markdown by using "#", "##", up to "######" for each header level, along with a space, before whatever text you choose as a title. 
@@ -10,12 +10,12 @@ You can create headers in Markdown by using "#", "##", up to "######" for each h
 - To make text _italicized_, use " _ " xyz " _ ".
 - To quote text, use ">".
 
-The changes I made to this file include formatting and adding text.
-
 ## Adding Images
-To add images, copy and paste an image link into the following format: (![image](insert link here)
+To add images, copy and paste an image link into the following format: ![image](insert link here)
 
-(![image](https://github.com/user-attachments/assets/fc724f1c-adb6-4bfa-b24b-a2936acdb7ed)
+
+![image](https://github.com/user-attachments/assets/fc724f1c-adb6-4bfa-b24b-a2936acdb7ed)
+
 
 [_Displayed above is an image of a mother sea otter cradling her pup._]
 
@@ -23,9 +23,9 @@ To add images, copy and paste an image link into the following format: (![image]
 
 #### How to Insert Sections of Code
 
-Use the following format: a sandwich of 3 "`", or  "```" followed by the section of code, followed by another set.
+Use the following format: add a section of code in between a sandwich of "```"
 
-(_aka the same key as the tilde "~"_)
+(_aka the bottom character on the same key as the tilde "~"_)
 
 It will look like this: 
 
@@ -43,6 +43,3 @@ var myVar= "Hello, World!";
  - [x] completed task
  - [x] completed task
  - [ ] uncompleted task
-
-# The End
-I have now completed a doc of some basic markdown functions.
