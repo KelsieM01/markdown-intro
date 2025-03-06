@@ -11,3 +11,11 @@ You can create headers in Markdown by using "#", "##", up to "######" for each h
 - To quote text, use ">".
 
 The changes I made to this file include formatting and adding text.
+
+## Adding Images
+To add images, copy and paste an image link into the following format: (![image](insert link here)
+
+(![image](https://github.com/user-attachments/assets/fc724f1c-adb6-4bfa-b24b-a2936acdb7ed)
+
+[_Displayed above is an image of a mother sea otter cradling her pup._]
+
