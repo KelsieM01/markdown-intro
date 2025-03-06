@@ -33,6 +33,18 @@ It will look like this:
 var myVar= "Hello, World!";
 ```
 
+## Task Lists
+#### Syntax
+###### Checked Box
+"- [x] "
+###### Unchecked Box
+"- [ ] "
+#### Example
+ - [x] completed task
+ - [x] completed task
+ - [ ] uncompleted task
+
+
 
 
 
